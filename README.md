@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tommaso Toloni</h1>
 <h3 align="center">An it university student from Italy</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/_ABH4daXFW8AAAAM/lofi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommi0x&label=Profile%20views&color=0e75b6&style=flat" alt="tommi0x" /> </p>
 
