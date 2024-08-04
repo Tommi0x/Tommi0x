@@ -1,22 +1,31 @@
-[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611p411xx2ok683hw8k5iinju5qfreaza72yu12c6wt&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://tommasotoloni.com)
-<h2 align="left">Hi 👋! My name is Tommaso and I'm an CS student, from Italy</h2>
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tommi0x.Tommi0x&left_text=Visitors"  />
+<div id="badges" align="right">
+<img src="https://komarev.com/ghpvc/?username=tommi0x&style=flat-square&color=blue" alt=""/>
 </div>
 
-###
 
-<br clear="both">
+<div id="header" align="center">
+  <a href="https://tommasotoloni.com">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"/>
+  </a>
+</div>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/114871f3afb0066e6a2a17c5ef726d52f9e21f8be3d0a139b9f23d7a1713a752/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5f41424834646158465738414141414d2f6c6f66692e676966"  />
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/tommasotoloni/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
 
-###
+<h2 align="center">
+  Welcome
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+</h2>
 
-<p align="left">🔭 I’m currently working on Leetcode Problems<br><br>🌱 I’m currently learning Java<br><br>📫 How to reach me tommaso.toloni@icloud.com</p>
+### 👨‍💻 About Me :
 
-###
+I am a computer science student from Italy <img src="https://cdn.discordapp.com/attachments/1153276645944340480/1269669020408352788/icons8-italia-96_1.png?ex=66b0e6eb&is=66af956b&hm=356228956255d5ab5e950344bdcac17f0055f00b202671ff3f0502e41ed26baf&" width="30"> .
 
-<br clear="both">
+- :telescope: I study at Milano-Bicocca university.
+
+- :zap: i'm currently learning java , algorithms and data structures.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tommasotoloni/)
