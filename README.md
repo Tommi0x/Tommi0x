@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a computer science student from Italy <img src="https://cdn.discordapp.com/attachments/1153276645944340480/1269669020408352788/icons8-italia-96_1.png?ex=66b0e6eb&is=66af956b&hm=356228956255d5ab5e950344bdcac17f0055f00b202671ff3f0502e41ed26baf&" width="30"> .
+I am a computer science student from Italy.
 
 - :telescope: I study at Milano-Bicocca university.
 
