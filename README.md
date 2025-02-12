@@ -19,6 +19,6 @@ I am a computer science student from Italy <img src="https://cdn.discordapp.com/
 
 - :telescope: I study at Milano-Bicocca university.
 
-- :zap: i'm currently learning java , algorithms and data structures.
+- :zap: i'm currently learning prolog, lisp.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tommasotoloni/)
